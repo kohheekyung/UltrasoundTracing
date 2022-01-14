@@ -2,7 +2,7 @@
 Ray Casting/tracing of focused ultrasound using OptiX, VTK
 
 Code implementation of ['A parallel computing approach for optimization of a single-element transducer 
-position in transcranial focused ultrasound application'](https://github.com/kohheekyung/UltrasoundTracing/blob/main/poster.pdf)(Best poster award in KSTU)
+position in transcranial focused ultrasound application'](https://github.com/kohheekyung/UltrasoundTracing/blob/main/poster.pdf) (Best poster award in KSTU)
 
 ### Notice
 This project only involves codes regarding GPU based raytracing of ultrasound beams (Not full codes of navigation system).
